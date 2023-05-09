@@ -1,0 +1,51 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+
+#main-app
+{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.clc-img 
+{
+    width: 45%;
+    height: auto;
+    margin: auto;
+    padding: 25px;
+
+}
+.clc-img img 
+{
+    width: 70%;
+    height: 300px;
+    border-radius: 50%;
+}
+.clc-app 
+{
+    width: 45%;
+    height: auto;
+    padding: 25px;
+    margin-top: 5%;
+    
+}
+
+.clc-app button 
+{
+    width: 300px;
+    height: auto;
+    padding: 12px;
+    background-color: burlywood;
+    color: black;
+    border: none;
+    margin-top: 2%;
+}
