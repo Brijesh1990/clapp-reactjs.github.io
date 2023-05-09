@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clapp-reactjs.github.io/static/css/main.b7d712cd.css",
+    "main.js": "/clapp-reactjs.github.io/static/js/main.8f23fe76.js",
+    "static/js/787.f461a95c.chunk.js": "/clapp-reactjs.github.io/static/js/787.f461a95c.chunk.js",
+    "static/media/clc.gif": "/clapp-reactjs.github.io/static/media/clc.98ac85eb06426918b833.gif",
+    "index.html": "/clapp-reactjs.github.io/index.html",
+    "main.b7d712cd.css.map": "/clapp-reactjs.github.io/static/css/main.b7d712cd.css.map",
+    "main.8f23fe76.js.map": "/clapp-reactjs.github.io/static/js/main.8f23fe76.js.map",
+    "787.f461a95c.chunk.js.map": "/clapp-reactjs.github.io/static/js/787.f461a95c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d712cd.css",
+    "static/js/main.8f23fe76.js"
+  ]
+}
